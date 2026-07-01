@@ -4,4 +4,5 @@
  * logistic regression
  * Random Forest
  * Roc curve
+ * Precision Recall Curve
  
